@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Qarani-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Qarani-m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qarani-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/qarranni)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
