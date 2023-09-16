@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Qarani-m(Martin Karani 😎)
-- 👀 I’m interested in python for ML, backend web dev(Node js ) and android development(Flutter)...
-- 🌱 I’m currently learning Flutter(dart)...
-- 📫 How to reach me on
+- 👋 Hey there, I'm Martin Karani 😎
+- 👀 I'm into Java Spring for backend and Dart Flutter for Android app magic 🌟
+- 🌱 Currently leveling up in Dart Flutter
+- 📫 Let's chat
 -           0704847676
             emqarani@gmail.com
 <!---
