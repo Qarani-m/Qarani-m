@@ -3,7 +3,7 @@
 - 🌱 Currently leveling up in Dart & Flutter
 - 📫 Let's chat
 -           +254 704847676
-            emqarani@gmail.com
+            karanimartin17@gmail.com
 <!---
 Qarani-m/Qarani-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
