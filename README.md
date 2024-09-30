@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm Martin Karani 😎
+- 👋 Hey there,
 - 👀 I'm into Java Spring for backend and Dart & Flutter for Android app magic 🌟
 - 🌱 Currently leveling up in Dart & Flutter
 - 📫 Let's chat
