@@ -2,7 +2,7 @@
 - 👀 I'm into Java Spring for backend and Dart & Flutter for Android app magic 🌟
 - 🌱 Currently leveling up in Dart & Flutter
 - 📫 Let's chat
--           +254 704847676
+-           +254 764 539066
             karanimartin17@gmail.com
 <!---
 Qarani-m/Qarani-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
