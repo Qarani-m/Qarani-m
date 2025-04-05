@@ -1,6 +1,5 @@
 - 👋 Hey there,
-- 👀 I'm into Java Spring for backend and Dart & Flutter for Android app magic 🌟
-- 🌱 Currently leveling up in Dart & Flutter
+- 👀 Java, Flutter & ML
 - 📫 Let's chat
 -           +254 764 539066
             karanimartin17@gmail.com
