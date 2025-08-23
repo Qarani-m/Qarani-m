@@ -4,7 +4,9 @@
 
 ## 👨‍💻 Full-Stack Developer & Security Enthusiast
 
-I'm a Computer Science graduate specializing in Java, Flutter, and Machine Learning. I build innovative applications that solve real-world problems while maintaining robust security standards.
+I'm a Computer Science graduate specializing in Java, Flutter and Machine Learning. 
+
+I build innovative applications that solve real-world problems while maintaining robust security standards.
 
 ---
 
@@ -14,8 +16,6 @@ I'm a Computer Science graduate specializing in Java, Flutter, and Machine Learn
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-777BB4?style=for-the-badge&logo=&logoColor=white)
 
 ### Database
@@ -23,21 +23,6 @@ I'm a Computer Science graduate specializing in Java, Flutter, and Machine Learn
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🚀 Key Projects
-
-### 📱 Mobile & Web Applications
-- **EchoLens** - Contextual News Companion for the Web
-- **Bandwidth Syndicate** - Decentralized Internet Sharing Network
-- **ShadowDrive** - Secure Spare Drive Swapper
-
-### 🤖 AI & Government Solutions
-- **How-To Helper** - AI-Powered Guide for Government Websites
-- **AI Legal Advisor** - Personal Legal Assistant
-
-### 🔒 Security Tools
-- **Smali-to-Java Vulnerability Analyzer** - Security analysis tool
 
 ---
 
@@ -45,8 +30,7 @@ I'm a Computer Science graduate specializing in Java, Flutter, and Machine Learn
 
 I specialize in providing comprehensive programming solutions across multiple languages and platforms:
 
-- **Application Development** – Full-stack development in Java, JavaScript, TypeScript, and Python  
-- **Machine Learning** – Building intelligent models for prediction, classification, and automation  
+- **Application Development** – Full-stack development in Java, JavaScript and Python  
 - **Database Management** – Expert solutions in SQL, MySQL, and MongoDB  
 - **Technical Documentation** – Clear, professional documentation for all deliverables  
 - **Algorithm Implementation** – Efficient and secure algorithms for various applications  
@@ -64,7 +48,6 @@ I specialize in providing comprehensive programming solutions across multiple la
 
 ## 📫 Let's Connect
 
-- **Whatsapp**: +254 704 847676
 - **Email**: karanimartin17@gmail.com
 
 ---
